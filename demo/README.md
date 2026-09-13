@@ -17,6 +17,19 @@ starts, without asking us for anything.
 | `webhook-ping.json` | A `ping` body |
 | `samples.json` | The headers for each sample, and the demo secret |
 
+## Drive a whole week at your receiver
+
+```bash
+export DEV3PACK_WEBHOOK_SECRET=dev3pack-demo-secret     # or the real one
+python3 demo/simulate.py --url http://localhost:3000/ai-bootcamp/webhook
+```
+
+Ten real deliveries, signed the same way production signs them: five days of a
+cohort handing work in, then the four cases that break an ingestion written
+against the happy path — a resubmission that must REPLACE a row rather than add
+one, the identical delivery twice, a withdrawal, and a final. Each prints its
+HTTP status. `--dry-run` prints the bodies and sends nothing.
+
 ## The webhook samples
 
 **The bodies are real.** They are the exact bytes the course delivered on
