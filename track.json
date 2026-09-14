@@ -193,6 +193,51 @@
   ],
   "entries": [
     {
+      "github": "Messibre",
+      "item": "ch01",
+      "submitted_at": "2026-09-14T17:39:07Z",
+      "ran": true,
+      "passed": [],
+      "failed": [],
+      "not_reached": [
+        "ch01-e1"
+      ],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "immaculate-munde",
+      "item": "ch01",
+      "submitted_at": "2026-09-14T19:48:58Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "jiyajain23",
+      "item": "ch01",
+      "submitted_at": "2026-09-14T17:20:04Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
       "github": "leticiaalmeida-prod",
       "item": "ch01",
       "submitted_at": "2026-09-13T22:17:37Z",
