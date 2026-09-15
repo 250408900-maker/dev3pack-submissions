@@ -193,6 +193,24 @@
   ],
   "entries": [
     {
+      "github": "250408900-maker",
+      "item": "ch02",
+      "submitted_at": "2026-09-15T18:01:44Z",
+      "ran": true,
+      "passed": [
+        "ch02-e1",
+        "ch02-e2",
+        "ch02-e3",
+        "ch02-e4"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 400,
+      "max_score": 400,
+      "tier": "claimed"
+    },
+    {
       "github": "Human-Gechi",
       "item": "ch01",
       "submitted_at": "2026-09-15T13:50:48Z",
@@ -211,6 +229,21 @@
       "github": "Its-prity",
       "item": "ch01",
       "submitted_at": "2026-09-15T04:25:43Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
+      "github": "JemimahEkong",
+      "item": "ch01",
+      "submitted_at": "2026-09-15T17:52:04Z",
       "ran": true,
       "passed": [
         "ch01-e1"
