@@ -193,6 +193,21 @@
   ],
   "entries": [
     {
+      "github": "Its-prity",
+      "item": "ch01",
+      "submitted_at": "2026-09-15T04:25:43Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
       "github": "JennyT3",
       "item": "ch01",
       "submitted_at": "2026-09-15T05:33:52Z",
@@ -228,66 +243,63 @@
     {
       "github": "JennyT3",
       "item": "ch03",
-      "submitted_at": "2026-09-15T05:37:18Z",
+      "submitted_at": "2026-09-15T06:23:28Z",
       "ran": true,
       "passed": [
         "ch03-e1",
+        "ch03-e2",
         "ch03-e3"
       ],
-      "failed": [
-        "ch03-e2"
-      ],
+      "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 200,
+      "score": 300,
       "max_score": 300,
       "tier": "claimed"
     },
     {
       "github": "JennyT3",
       "item": "ch04",
-      "submitted_at": "2026-09-15T05:37:18Z",
+      "submitted_at": "2026-09-15T06:23:30Z",
       "ran": true,
       "passed": [
         "ch04-e1",
-        "ch04-e2"
-      ],
-      "failed": [
+        "ch04-e2",
         "ch04-e3"
       ],
+      "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 200,
+      "score": 300,
       "max_score": 300,
       "tier": "claimed"
     },
     {
       "github": "JennyT3",
       "item": "ch05",
-      "submitted_at": "2026-09-15T05:37:19Z",
+      "submitted_at": "2026-09-15T06:23:33Z",
       "ran": true,
       "passed": [
-        "ch05-e1"
-      ],
-      "failed": [
+        "ch05-e1",
         "ch05-e2"
       ],
+      "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 100,
+      "score": 200,
       "max_score": 200,
       "tier": "claimed"
     },
     {
       "github": "Messibre",
       "item": "ch01",
-      "submitted_at": "2026-09-14T17:39:07Z",
+      "submitted_at": "2026-09-15T09:07:29Z",
       "ran": true,
-      "passed": [],
-      "failed": [],
-      "not_reached": [
+      "passed": [
         "ch01-e1"
       ],
+      "failed": [],
+      "not_reached": [],
       "scored": false,
       "score": null,
       "max_score": null,
@@ -297,6 +309,21 @@
       "github": "SofiaSol10",
       "item": "ch01",
       "submitted_at": "2026-09-15T04:46:36Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "Welu2",
+      "item": "ch01",
+      "submitted_at": "2026-09-15T07:59:22Z",
       "ran": true,
       "passed": [
         "ch01-e1"
@@ -420,6 +447,21 @@
       "score": 200,
       "max_score": 200,
       "tier": "claimed"
+    },
+    {
+      "github": "nizalia0206",
+      "item": "ch01",
+      "submitted_at": "2026-09-15T11:05:39Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
     }
   ],
   "problems": []
