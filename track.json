@@ -351,6 +351,21 @@
       "tier": "unverifiable"
     },
     {
+      "github": "debbyelsie",
+      "item": "ch01",
+      "submitted_at": "2026-09-15T15:44:00Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
       "github": "immaculate-munde",
       "item": "ch01",
       "submitted_at": "2026-09-14T19:48:58Z",
@@ -364,6 +379,144 @@
       "score": 100,
       "max_score": 100,
       "tier": "unverifiable"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "w01",
+      "submitted_at": "2026-09-15T15:01:12Z",
+      "ran": true,
+      "passed": [
+        "w01-e1",
+        "w01-e2",
+        "w01-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "w02",
+      "submitted_at": "2026-09-15T15:13:53Z",
+      "ran": true,
+      "passed": [
+        "w02-e1",
+        "w02-e3",
+        "w02-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "w03",
+      "submitted_at": "2026-09-15T15:14:03Z",
+      "ran": true,
+      "passed": [
+        "w03-e1",
+        "w03-e2",
+        "w03-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "w04",
+      "submitted_at": "2026-09-15T15:14:10Z",
+      "ran": true,
+      "passed": [
+        "w04-e1",
+        "w04-e2",
+        "w04-e3",
+        "w04-e4"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "w05",
+      "submitted_at": "2026-09-15T15:14:49Z",
+      "ran": true,
+      "passed": [
+        "w05-e1",
+        "w05-e2",
+        "w05-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "w06",
+      "submitted_at": "2026-09-15T15:14:56Z",
+      "ran": true,
+      "passed": [
+        "w06-e1",
+        "w06-e2",
+        "w06-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "w07",
+      "submitted_at": "2026-09-15T15:15:02Z",
+      "ran": true,
+      "passed": [
+        "w07-e1",
+        "w07-e2",
+        "w07-e3",
+        "w07-e4"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "w08",
+      "submitted_at": "2026-09-15T15:15:09Z",
+      "ran": true,
+      "passed": [
+        "w08-e1",
+        "w08-e2",
+        "w08-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
     },
     {
       "github": "jiyajain23",
@@ -467,6 +620,21 @@
       "github": "nizalia0206",
       "item": "ch01",
       "submitted_at": "2026-09-15T11:05:39Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
+      "github": "rehna-jp",
+      "item": "ch01",
+      "submitted_at": "2026-09-15T16:24:12Z",
       "ran": true,
       "passed": [
         "ch01-e1"

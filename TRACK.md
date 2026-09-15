@@ -2,7 +2,7 @@
 
 # Track
 
-11 student(s) have handed something in, across 15 marked items.
+14 student(s) have handed something in, across 15 marked items.
 
 A cell shows what that item was worth. `handed in` means the work was
 submitted and is not marked: week 0 is self-paced, and the two
@@ -17,10 +17,13 @@ nothing has been submitted yet, which is not the same as a zero.
 | Messibre | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | SofiaSol10 | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | Welu2 | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
+| debbyelsie | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | immaculate-munde | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
+| irlandakelly |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | — |
 | jiyajain23 | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | leticiaalmeida-prod | 100/100 | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1300/1300 |
 | nizalia0206 | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
+| rehna-jp | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | thefranceway | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 
 ## Week 0
@@ -35,8 +38,11 @@ Handed in as a record of the work, never marked.
 | Messibre | 0/12 |
 | SofiaSol10 | 0/12 |
 | Welu2 | 0/12 |
+| debbyelsie | 0/12 |
 | immaculate-munde | 0/12 |
+| irlandakelly | 8/12 |
 | jiyajain23 | 0/12 |
 | leticiaalmeida-prod | 0/12 |
 | nizalia0206 | 0/12 |
+| rehna-jp | 0/12 |
 | thefranceway | 0/12 |
