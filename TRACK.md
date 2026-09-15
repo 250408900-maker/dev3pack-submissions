@@ -2,7 +2,7 @@
 
 # Track
 
-9 student(s) have handed something in, across 13 marked items.
+11 student(s) have handed something in, across 15 marked items.
 
 A cell shows what that item was worth. `handed in` means the work was
 submitted and is not marked: week 0 is self-paced, and the two
@@ -11,15 +11,17 @@ nothing has been submitted yet, which is not the same as a zero.
 
 | Student | ch01 | ch02 | ch03 | ch04 | ch05 | ch06 | ch07 | ch08 | ch09 | ch10 | ch11 | ch12 | ch13 | ch14 | cap01 | Total |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Its-prity | handed in |  |  |  |  |  |  |  |  |  |  |  |  |  |  | — |
-| JennyT3 | handed in | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1200/1200 |
-| Messibre | handed in |  |  |  |  |  |  |  |  |  |  |  |  |  |  | — |
-| SofiaSol10 | handed in |  |  |  |  |  |  |  |  |  |  |  |  |  |  | — |
-| Welu2 | handed in |  |  |  |  |  |  |  |  |  |  |  |  |  |  | — |
-| immaculate-munde | handed in |  |  |  |  |  |  |  |  |  |  |  |  |  |  | — |
-| jiyajain23 | handed in |  |  |  |  |  |  |  |  |  |  |  |  |  |  | — |
-| leticiaalmeida-prod | handed in | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1200/1200 |
-| nizalia0206 | handed in |  |  |  |  |  |  |  |  |  |  |  |  |  |  | — |
+| Human-Gechi | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
+| Its-prity | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
+| JennyT3 | 100/100 | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1300/1300 |
+| Messibre | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
+| SofiaSol10 | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
+| Welu2 | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
+| immaculate-munde | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
+| jiyajain23 | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
+| leticiaalmeida-prod | 100/100 | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1300/1300 |
+| nizalia0206 | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
+| thefranceway | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 
 ## Week 0
 
@@ -27,6 +29,7 @@ Handed in as a record of the work, never marked.
 
 | Student | Units handed in |
 |---|---|
+| Human-Gechi | 0/12 |
 | Its-prity | 0/12 |
 | JennyT3 | 0/12 |
 | Messibre | 0/12 |
@@ -36,3 +39,4 @@ Handed in as a record of the work, never marked.
 | jiyajain23 | 0/12 |
 | leticiaalmeida-prod | 0/12 |
 | nizalia0206 | 0/12 |
+| thefranceway | 0/12 |

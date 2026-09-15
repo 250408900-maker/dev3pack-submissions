@@ -88,9 +88,9 @@
     {
       "id": "ch01",
       "title": "Configure the assistant and the repository instructions",
-      "scored": false,
+      "scored": true,
       "verifiable": false,
-      "max_score": null
+      "max_score": 100
     },
     {
       "id": "ch02",
@@ -151,9 +151,9 @@
     {
       "id": "ch10",
       "title": "Skills and an architecture decision record",
-      "scored": false,
+      "scored": true,
       "verifiable": false,
-      "max_score": null
+      "max_score": 200
     },
     {
       "id": "ch11",
@@ -193,6 +193,21 @@
   ],
   "entries": [
     {
+      "github": "Human-Gechi",
+      "item": "ch01",
+      "submitted_at": "2026-09-15T13:50:48Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
       "github": "Its-prity",
       "item": "ch01",
       "submitted_at": "2026-09-15T04:25:43Z",
@@ -202,10 +217,10 @@
       ],
       "failed": [],
       "not_reached": [],
-      "scored": false,
-      "score": null,
-      "max_score": null,
-      "tier": "handed in"
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
     },
     {
       "github": "JennyT3",
@@ -217,10 +232,10 @@
       ],
       "failed": [],
       "not_reached": [],
-      "scored": false,
-      "score": null,
-      "max_score": null,
-      "tier": "handed in"
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
     },
     {
       "github": "JennyT3",
@@ -300,10 +315,10 @@
       ],
       "failed": [],
       "not_reached": [],
-      "scored": false,
-      "score": null,
-      "max_score": null,
-      "tier": "handed in"
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
     },
     {
       "github": "SofiaSol10",
@@ -315,10 +330,10 @@
       ],
       "failed": [],
       "not_reached": [],
-      "scored": false,
-      "score": null,
-      "max_score": null,
-      "tier": "handed in"
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
     },
     {
       "github": "Welu2",
@@ -330,10 +345,10 @@
       ],
       "failed": [],
       "not_reached": [],
-      "scored": false,
-      "score": null,
-      "max_score": null,
-      "tier": "handed in"
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
     },
     {
       "github": "immaculate-munde",
@@ -345,10 +360,10 @@
       ],
       "failed": [],
       "not_reached": [],
-      "scored": false,
-      "score": null,
-      "max_score": null,
-      "tier": "handed in"
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
     },
     {
       "github": "jiyajain23",
@@ -360,10 +375,10 @@
       ],
       "failed": [],
       "not_reached": [],
-      "scored": false,
-      "score": null,
-      "max_score": null,
-      "tier": "handed in"
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
     },
     {
       "github": "leticiaalmeida-prod",
@@ -375,10 +390,10 @@
       ],
       "failed": [],
       "not_reached": [],
-      "scored": false,
-      "score": null,
-      "max_score": null,
-      "tier": "handed in"
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
     },
     {
       "github": "leticiaalmeida-prod",
@@ -458,10 +473,25 @@
       ],
       "failed": [],
       "not_reached": [],
-      "scored": false,
-      "score": null,
-      "max_score": null,
-      "tier": "handed in"
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
+      "github": "thefranceway",
+      "item": "ch01",
+      "submitted_at": "2026-09-15T14:42:19Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
     }
   ],
   "problems": []
