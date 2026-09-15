@@ -429,6 +429,21 @@
       "tier": "unverifiable"
     },
     {
+      "github": "desirrebarbosa",
+      "item": "ch01",
+      "submitted_at": "2026-09-15T17:45:09Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
       "github": "devolps-survive",
       "item": "ch01",
       "submitted_at": "2026-09-15T21:12:23Z",
@@ -610,6 +625,39 @@
       "score": 100,
       "max_score": 100,
       "tier": "unverifiable"
+    },
+    {
+      "github": "karolrojas07",
+      "item": "ch01",
+      "submitted_at": "2026-09-15T21:51:11Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
+      "github": "karolrojas07",
+      "item": "ch02",
+      "submitted_at": "2026-09-15T18:11:27Z",
+      "ran": true,
+      "passed": [
+        "ch02-e1",
+        "ch02-e2",
+        "ch02-e3",
+        "ch02-e4"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 400,
+      "max_score": 400,
+      "tier": "claimed"
     },
     {
       "github": "leticiaalmeida-prod",
