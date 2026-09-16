@@ -211,6 +211,38 @@
       "tier": "claimed"
     },
     {
+      "github": "Abduovv",
+      "item": "ch01",
+      "submitted_at": "2026-09-16T12:20:36Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
+      "github": "Abduovv",
+      "item": "w01",
+      "submitted_at": "2026-09-16T10:24:28Z",
+      "ran": true,
+      "passed": [
+        "w01-e1",
+        "w01-e2",
+        "w01-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
       "github": "Guis-gk",
       "item": "ch01",
       "submitted_at": "2026-09-16T01:42:01Z",
@@ -478,6 +510,24 @@
       "score": 100,
       "max_score": 100,
       "tier": "unverifiable"
+    },
+    {
+      "github": "Welu2",
+      "item": "ch02",
+      "submitted_at": "2026-09-16T07:32:46Z",
+      "ran": true,
+      "passed": [
+        "ch02-e1",
+        "ch02-e2",
+        "ch02-e3",
+        "ch02-e4"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 400,
+      "max_score": 400,
+      "tier": "claimed"
     },
     {
       "github": "arr4-y",
@@ -1042,6 +1092,24 @@
       "tier": "unverifiable"
     },
     {
+      "github": "nizalia0206",
+      "item": "ch02",
+      "submitted_at": "2026-09-16T10:12:07Z",
+      "ran": true,
+      "passed": [
+        "ch02-e1",
+        "ch02-e2",
+        "ch02-e3",
+        "ch02-e4"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 400,
+      "max_score": 400,
+      "tier": "claimed"
+    },
+    {
       "github": "pamvianeta",
       "item": "ch01",
       "submitted_at": "2026-09-16T04:09:14Z",
@@ -1088,6 +1156,39 @@
       "score": 100,
       "max_score": 100,
       "tier": "unverifiable"
+    },
+    {
+      "github": "semegn19",
+      "item": "ch01",
+      "submitted_at": "2026-09-16T08:39:23Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
+      "github": "semegn19",
+      "item": "ch02",
+      "submitted_at": "2026-09-16T10:05:15Z",
+      "ran": true,
+      "passed": [
+        "ch02-e1",
+        "ch02-e2",
+        "ch02-e3",
+        "ch02-e4"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 400,
+      "max_score": 400,
+      "tier": "claimed"
     },
     {
       "github": "thefranceway",
