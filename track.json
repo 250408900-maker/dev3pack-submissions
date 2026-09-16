@@ -475,6 +475,73 @@
     },
     {
       "github": "irlandakelly",
+      "item": "ch01",
+      "submitted_at": "2026-09-16T00:45:02Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "ch02",
+      "submitted_at": "2026-09-16T00:45:25Z",
+      "ran": true,
+      "passed": [
+        "ch02-e1",
+        "ch02-e2",
+        "ch02-e3",
+        "ch02-e4"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 400,
+      "max_score": 400,
+      "tier": "claimed"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "ch03",
+      "submitted_at": "2026-09-16T01:17:07Z",
+      "ran": true,
+      "passed": [
+        "ch03-e1",
+        "ch03-e2",
+        "ch03-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "ch04",
+      "submitted_at": "2026-09-16T01:27:34Z",
+      "ran": true,
+      "passed": [
+        "ch04-e1",
+        "ch04-e2",
+        "ch04-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "irlandakelly",
       "item": "w01",
       "submitted_at": "2026-09-15T15:01:12Z",
       "ran": true,
@@ -603,6 +670,76 @@
         "w08-e1",
         "w08-e2",
         "w08-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "w09",
+      "submitted_at": "2026-09-15T23:11:57Z",
+      "ran": true,
+      "passed": [
+        "w09-e1",
+        "w09-e2",
+        "w09-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "w10",
+      "submitted_at": "2026-09-15T23:12:43Z",
+      "ran": true,
+      "passed": [
+        "w10-e1",
+        "w10-e2",
+        "w10-e3",
+        "w10-e4"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "w11",
+      "submitted_at": "2026-09-15T23:13:27Z",
+      "ran": true,
+      "passed": [
+        "w11-e1",
+        "w11-e2",
+        "w11-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "irlandakelly",
+      "item": "w12",
+      "submitted_at": "2026-09-15T23:26:40Z",
+      "ran": true,
+      "passed": [
+        "w12-e1",
+        "w12-e2",
+        "w12-e3",
+        "w12-e4"
       ],
       "failed": [],
       "not_reached": [],
@@ -741,6 +878,21 @@
       "score": 200,
       "max_score": 200,
       "tier": "claimed"
+    },
+    {
+      "github": "med-bc",
+      "item": "ch01",
+      "submitted_at": "2026-09-15T23:33:31Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
     },
     {
       "github": "nizalia0206",
