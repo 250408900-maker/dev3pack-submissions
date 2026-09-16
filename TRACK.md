@@ -2,7 +2,7 @@
 
 # Track
 
-33 student(s) have handed something in, across 15 marked items.
+34 student(s) have handed something in, across 15 marked items.
 
 A cell shows what that item was worth. `handed in` means the work was
 submitted and is not marked: week 0 is self-paced, and the two
@@ -29,6 +29,7 @@ nothing has been submitted yet, which is not the same as a zero.
 | debbyelsie | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
 | desirrebarbosa | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | devolps-survive | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
+| gertahodolli | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
 | immaculate-munde | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | irlandakelly | 100/100 | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1300/1300 |
 | jiyajain23 | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
@@ -39,7 +40,7 @@ nothing has been submitted yet, which is not the same as a zero.
 | med-bc | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
 | navy0110 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | — |
 | nizalia0206 | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
-| pamvianeta | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
+| pamvianeta | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
 | pixiepixeled | 100/100 | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1300/1300 |
 | rehna-jp | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
 | semegn19 | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
@@ -69,6 +70,7 @@ Handed in as a record of the work, never marked.
 | debbyelsie | 0/12 |
 | desirrebarbosa | 0/12 |
 | devolps-survive | 0/12 |
+| gertahodolli | 0/12 |
 | immaculate-munde | 0/12 |
 | irlandakelly | 12/12 |
 | jiyajain23 | 0/12 |
