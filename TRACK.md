@@ -2,7 +2,7 @@
 
 # Track
 
-39 student(s) have handed something in, across 15 marked items.
+40 student(s) have handed something in, across 15 marked items.
 
 A cell shows what that item was worth. `handed in` means the work was
 submitted and is not marked: week 0 is self-paced, and the two
@@ -18,13 +18,14 @@ nothing has been submitted yet, which is not the same as a zero.
 | Igullabs | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
 | Insia-8 | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
 | Its-prity | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
-| JemimahEkong | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
+| JemimahEkong | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
 | JennyT3 | 100/100 | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1300/1300 |
 | Messibre | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
 | SaraDahman | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | Sodi0 | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
 | SofiaSol10 | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
 | Welu2 | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
+| apeaircreative | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | arr4-y | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | bahatijacklee | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | baraa0abd | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
@@ -71,6 +72,7 @@ Handed in as a record of the work, never marked.
 | Sodi0 | 0/12 |
 | SofiaSol10 | 0/12 |
 | Welu2 | 0/12 |
+| apeaircreative | 0/12 |
 | arr4-y | 0/12 |
 | bahatijacklee | 0/12 |
 | baraa0abd | 0/12 |
