@@ -2,7 +2,7 @@
 
 # Track
 
-34 student(s) have handed something in, across 15 marked items.
+35 student(s) have handed something in, across 15 marked items.
 
 A cell shows what that item was worth. `handed in` means the work was
 submitted and is not marked: week 0 is self-paced, and the two
@@ -13,7 +13,7 @@ nothing has been submitted yet, which is not the same as a zero.
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 250408900-maker |  | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 700/700 |
 | Abduovv | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
-| Guis-gk | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
+| Guis-gk | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
 | Human-Gechi | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | Insia-8 | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
 | Its-prity | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
@@ -33,16 +33,17 @@ nothing has been submitted yet, which is not the same as a zero.
 | immaculate-munde | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | irlandakelly | 100/100 | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1300/1300 |
 | jiyajain23 | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
-| karolrojas07 | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
+| karolrojas07 | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
 | kb-dev28 | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | leticiaalmeida-prod | 100/100 | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1300/1300 |
 | lovelymahor | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
-| med-bc | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
+| med-bc | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
 | navy0110 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | — |
 | nizalia0206 | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
 | pamvianeta | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
 | pixiepixeled | 100/100 | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1300/1300 |
 | rehna-jp | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
+| sandyreyna | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | semegn19 | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
 | thefranceway | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 
@@ -84,5 +85,6 @@ Handed in as a record of the work, never marked.
 | pamvianeta | 0/12 |
 | pixiepixeled | 0/12 |
 | rehna-jp | 0/12 |
+| sandyreyna | 0/12 |
 | semegn19 | 0/12 |
 | thefranceway | 0/12 |
