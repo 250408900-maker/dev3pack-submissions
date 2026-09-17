@@ -620,6 +620,23 @@
       "tier": "claimed"
     },
     {
+      "github": "Sodi0",
+      "item": "ch03",
+      "submitted_at": "2026-09-17T04:31:32Z",
+      "ran": true,
+      "passed": [
+        "ch03-e1",
+        "ch03-e2",
+        "ch03-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "SofiaSol10",
       "item": "ch01",
       "submitted_at": "2026-09-15T04:46:36Z",
@@ -653,6 +670,23 @@
       "tier": "claimed"
     },
     {
+      "github": "SofiaSol10",
+      "item": "ch03",
+      "submitted_at": "2026-09-17T05:50:43Z",
+      "ran": true,
+      "passed": [
+        "ch03-e1",
+        "ch03-e2",
+        "ch03-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "Welu2",
       "item": "ch01",
       "submitted_at": "2026-09-15T07:59:22Z",
@@ -683,6 +717,23 @@
       "scored": true,
       "score": 400,
       "max_score": 400,
+      "tier": "claimed"
+    },
+    {
+      "github": "Welu2",
+      "item": "ch03",
+      "submitted_at": "2026-09-17T07:15:52Z",
+      "ran": true,
+      "passed": [
+        "ch03-e1",
+        "ch03-e2",
+        "ch03-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
       "tier": "claimed"
     },
     {
@@ -810,6 +861,75 @@
       "score": 400,
       "max_score": 400,
       "tier": "claimed"
+    },
+    {
+      "github": "helasnoussi",
+      "item": "w01",
+      "submitted_at": "2026-09-17T09:25:21Z",
+      "ran": true,
+      "passed": [
+        "w01-e1",
+        "w01-e2",
+        "w01-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "helasnoussi",
+      "item": "w02",
+      "submitted_at": "2026-09-17T09:25:30Z",
+      "ran": true,
+      "passed": [
+        "w02-e1",
+        "w02-e3",
+        "w02-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "helasnoussi",
+      "item": "w03",
+      "submitted_at": "2026-09-17T09:25:36Z",
+      "ran": true,
+      "passed": [
+        "w03-e1",
+        "w03-e2",
+        "w03-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "helasnoussi",
+      "item": "w04",
+      "submitted_at": "2026-09-17T09:25:42Z",
+      "ran": true,
+      "passed": [
+        "w04-e1",
+        "w04-e2",
+        "w04-e3",
+        "w04-e4"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
     },
     {
       "github": "immaculate-munde",

@@ -2,7 +2,7 @@
 
 # Track
 
-36 student(s) have handed something in, across 15 marked items.
+37 student(s) have handed something in, across 15 marked items.
 
 A cell shows what that item was worth. `handed in` means the work was
 submitted and is not marked: week 0 is self-paced, and the two
@@ -22,15 +22,16 @@ nothing has been submitted yet, which is not the same as a zero.
 | JennyT3 | 100/100 | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1300/1300 |
 | Messibre | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
 | SaraDahman | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
-| Sodi0 | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
-| SofiaSol10 | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
-| Welu2 | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
+| Sodi0 | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
+| SofiaSol10 | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
+| Welu2 | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
 | arr4-y | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | baraa0abd | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | debbyelsie | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
 | desirrebarbosa | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | devolps-survive | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | gertahodolli | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
+| helasnoussi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | — |
 | immaculate-munde | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | irlandakelly | 100/100 | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1300/1300 |
 | jiyajain23 | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
@@ -74,6 +75,7 @@ Handed in as a record of the work, never marked.
 | desirrebarbosa | 0/12 |
 | devolps-survive | 0/12 |
 | gertahodolli | 0/12 |
+| helasnoussi | 4/12 |
 | immaculate-munde | 0/12 |
 | irlandakelly | 12/12 |
 | jiyajain23 | 0/12 |
