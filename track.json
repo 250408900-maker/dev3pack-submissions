@@ -1774,6 +1774,23 @@
       "tier": "claimed"
     },
     {
+      "github": "med-bc",
+      "item": "ch04",
+      "submitted_at": "2026-09-18T00:40:05Z",
+      "ran": true,
+      "passed": [
+        "ch04-e1",
+        "ch04-e2",
+        "ch04-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "navy0110",
       "item": "w01",
       "submitted_at": "2026-09-16T04:46:48Z",
