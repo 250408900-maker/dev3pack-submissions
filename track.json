@@ -972,6 +972,23 @@
       "tier": "unverifiable"
     },
     {
+      "github": "apeaircreative",
+      "item": "w01",
+      "submitted_at": "2026-09-19T18:02:56Z",
+      "ran": true,
+      "passed": [
+        "w01-e1",
+        "w01-e2",
+        "w01-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
       "github": "arr4-y",
       "item": "ch01",
       "submitted_at": "2026-09-16T03:13:00Z",
