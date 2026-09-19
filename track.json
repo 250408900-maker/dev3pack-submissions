@@ -1321,6 +1321,23 @@
       "tier": "handed in"
     },
     {
+      "github": "helasnoussi",
+      "item": "w11",
+      "submitted_at": "2026-09-19T16:06:37Z",
+      "ran": true,
+      "passed": [
+        "w11-e1",
+        "w11-e2",
+        "w11-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
       "github": "immaculate-munde",
       "item": "ch01",
       "submitted_at": "2026-09-14T19:48:58Z",
