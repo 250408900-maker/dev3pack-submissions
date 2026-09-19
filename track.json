@@ -575,6 +575,23 @@
       "tier": "claimed"
     },
     {
+      "github": "JemimahEkong",
+      "item": "ch04",
+      "submitted_at": "2026-09-19T16:37:18Z",
+      "ran": true,
+      "passed": [
+        "ch04-e1",
+        "ch04-e2",
+        "ch04-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "JennyT3",
       "item": "ch01",
       "submitted_at": "2026-09-15T05:33:52Z",
