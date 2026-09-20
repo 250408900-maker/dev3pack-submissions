@@ -245,6 +245,22 @@
       "tier": "claimed"
     },
     {
+      "github": "250408900-maker",
+      "item": "ch05",
+      "submitted_at": "2026-09-19T12:53:18Z",
+      "ran": true,
+      "passed": [
+        "ch05-e1",
+        "ch05-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 200,
+      "max_score": 200,
+      "tier": "claimed"
+    },
+    {
       "github": "Abduovv",
       "item": "ch01",
       "submitted_at": "2026-09-16T12:20:36Z",
