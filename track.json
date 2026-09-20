@@ -2448,6 +2448,22 @@
       "tier": "claimed"
     },
     {
+      "github": "rehna-jp",
+      "item": "ch05",
+      "submitted_at": "2026-09-20T03:40:58Z",
+      "ran": true,
+      "passed": [
+        "ch05-e1",
+        "ch05-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 200,
+      "max_score": 200,
+      "tier": "claimed"
+    },
+    {
       "github": "sandyreyna",
       "item": "ch01",
       "submitted_at": "2026-09-17T01:18:57Z",
