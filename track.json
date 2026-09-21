@@ -2746,6 +2746,23 @@
       "tier": "claimed"
     },
     {
+      "github": "odingaval",
+      "item": "w01",
+      "submitted_at": "2026-09-21T14:19:39Z",
+      "ran": true,
+      "passed": [
+        "w01-e1",
+        "w01-e2",
+        "w01-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
       "github": "pamvianeta",
       "item": "ch01",
       "submitted_at": "2026-09-16T04:09:14Z",
