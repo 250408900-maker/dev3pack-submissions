@@ -1370,6 +1370,39 @@
       "tier": "claimed"
     },
     {
+      "github": "baraa0abd",
+      "item": "ch04",
+      "submitted_at": "2026-09-21T18:08:20Z",
+      "ran": true,
+      "passed": [
+        "ch04-e1",
+        "ch04-e2",
+        "ch04-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "baraa0abd",
+      "item": "ch05",
+      "submitted_at": "2026-09-21T18:08:19Z",
+      "ran": true,
+      "passed": [
+        "ch05-e1",
+        "ch05-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 200,
+      "max_score": 200,
+      "tier": "claimed"
+    },
+    {
       "github": "debbyelsie",
       "item": "ch01",
       "submitted_at": "2026-09-15T15:44:00Z",
