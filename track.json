@@ -773,6 +773,21 @@
       "tier": "claimed"
     },
     {
+      "github": "Ryjen1",
+      "item": "ch01",
+      "submitted_at": "2026-09-21T08:01:37Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
       "github": "SaraDahman",
       "item": "ch01",
       "submitted_at": "2026-09-15T22:17:24Z",

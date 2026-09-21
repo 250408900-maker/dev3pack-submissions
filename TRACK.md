@@ -2,7 +2,7 @@
 
 # Track
 
-42 student(s) have handed something in, across 15 marked items.
+43 student(s) have handed something in, across 15 marked items.
 
 A cell shows what that item was worth. `handed in` means the work was
 submitted and is not marked: week 0 is self-paced, and the two
@@ -21,6 +21,7 @@ nothing has been submitted yet, which is not the same as a zero.
 | JemimahEkong | 100/100 | 400/400 | 300/300 | 300/300 |  |  |  |  |  |  |  |  |  |  |  | 1100/1100 |
 | JennyT3 | 100/100 | 400/400 | 300/300 | 300/300 | 200/200 |  |  |  |  |  |  |  |  |  |  | 1300/1300 |
 | Messibre | 100/100 | 400/400 | 300/300 | 300/300 |  |  |  |  |  |  |  |  |  |  |  | 1100/1100 |
+| Ryjen1 | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | SaraDahman | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | Sodi0 | 100/100 | 400/400 | 300/300 |  |  |  |  |  |  |  |  |  |  |  |  | 800/800 |
 | SofiaSol10 | 100/100 | 400/400 | 300/300 | 300/300 |  |  |  |  |  |  |  |  |  |  |  | 1100/1100 |
@@ -70,6 +71,7 @@ Handed in as a record of the work, never marked.
 | JemimahEkong | 0/12 |
 | JennyT3 | 0/12 |
 | Messibre | 0/12 |
+| Ryjen1 | 0/12 |
 | SaraDahman | 0/12 |
 | Sodi0 | 0/12 |
 | SofiaSol10 | 0/12 |
