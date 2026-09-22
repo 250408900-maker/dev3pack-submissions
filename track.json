@@ -2465,6 +2465,23 @@
       "tier": "claimed"
     },
     {
+      "github": "karolrojas07",
+      "item": "ch07",
+      "submitted_at": "2026-09-22T04:06:07Z",
+      "ran": true,
+      "passed": [
+        "ch07-e1",
+        "ch07-e2",
+        "ch07-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "kb-dev28",
       "item": "ch01",
       "submitted_at": "2026-09-16T13:27:51Z",
