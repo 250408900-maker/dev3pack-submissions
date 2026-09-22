@@ -839,6 +839,23 @@
       "tier": "claimed"
     },
     {
+      "github": "Messibre",
+      "item": "ch07",
+      "submitted_at": "2026-09-22T19:42:08Z",
+      "ran": true,
+      "passed": [
+        "ch07-e1",
+        "ch07-e2",
+        "ch07-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "Ryjen1",
       "item": "ch01",
       "submitted_at": "2026-09-21T08:01:37Z",
