@@ -2466,6 +2466,23 @@
     },
     {
       "github": "karolrojas07",
+      "item": "ch06",
+      "submitted_at": "2026-09-22T04:12:13Z",
+      "ran": true,
+      "passed": [
+        "ch06-e2",
+        "ch06-e3",
+        "ch06-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "karolrojas07",
       "item": "ch07",
       "submitted_at": "2026-09-22T04:06:07Z",
       "ran": true,
