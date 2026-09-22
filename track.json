@@ -1071,6 +1071,22 @@
       "tier": "claimed"
     },
     {
+      "github": "SofiaSol10",
+      "item": "ch05",
+      "submitted_at": "2026-09-22T15:28:05Z",
+      "ran": true,
+      "passed": [
+        "ch05-e1",
+        "ch05-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 200,
+      "max_score": 700,
+      "tier": "claimed"
+    },
+    {
       "github": "Welu2",
       "item": "ch01",
       "submitted_at": "2026-09-15T07:59:22Z",
