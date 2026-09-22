@@ -1734,6 +1734,23 @@
     },
     {
       "github": "helasnoussi",
+      "item": "ch04",
+      "submitted_at": "2026-09-22T10:57:52Z",
+      "ran": true,
+      "passed": [
+        "ch04-e1",
+        "ch04-e2",
+        "ch04-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "helasnoussi",
       "item": "w01",
       "submitted_at": "2026-09-17T09:25:21Z",
       "ran": true,
