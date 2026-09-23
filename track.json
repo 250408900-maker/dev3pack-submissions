@@ -2191,6 +2191,23 @@
     },
     {
       "github": "irlandakelly",
+      "item": "ch07",
+      "submitted_at": "2026-09-23T00:50:07Z",
+      "ran": true,
+      "passed": [
+        "ch07-e1",
+        "ch07-e2",
+        "ch07-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "irlandakelly",
       "item": "w01",
       "submitted_at": "2026-09-15T15:01:12Z",
       "ran": true,
