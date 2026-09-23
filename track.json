@@ -2617,6 +2617,41 @@
       "tier": "unverifiable"
     },
     {
+      "github": "julidev0",
+      "item": "ch02",
+      "submitted_at": "2026-09-23T16:07:50Z",
+      "ran": true,
+      "passed": [
+        "ch02-e1",
+        "ch02-e2",
+        "ch02-e3",
+        "ch02-e4"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 400,
+      "max_score": 400,
+      "tier": "claimed"
+    },
+    {
+      "github": "julidev0",
+      "item": "ch03",
+      "submitted_at": "2026-09-23T16:08:03Z",
+      "ran": true,
+      "passed": [
+        "ch03-e1",
+        "ch03-e2",
+        "ch03-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "karolrojas07",
       "item": "ch01",
       "submitted_at": "2026-09-15T21:51:11Z",
