@@ -2753,6 +2753,23 @@
       "tier": "claimed"
     },
     {
+      "github": "julidev0",
+      "item": "ch06",
+      "submitted_at": "2026-09-23T18:41:04Z",
+      "ran": true,
+      "passed": [
+        "ch06-e2",
+        "ch06-e3",
+        "ch06-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "karolrojas07",
       "item": "ch01",
       "submitted_at": "2026-09-15T21:51:11Z",
