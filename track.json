@@ -3639,6 +3639,23 @@
       "tier": "claimed"
     },
     {
+      "github": "nizalia0206",
+      "item": "ch08",
+      "submitted_at": "2026-09-24T06:09:39Z",
+      "ran": true,
+      "passed": [
+        "ch08-e1",
+        "ch08-e2",
+        "ch08-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "odingaval",
       "item": "ch01",
       "submitted_at": "2026-09-21T16:09:28Z",
