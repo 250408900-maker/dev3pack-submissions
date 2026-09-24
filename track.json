@@ -1390,6 +1390,22 @@
     },
     {
       "github": "apeaircreative",
+      "item": "ch05",
+      "submitted_at": "2026-09-24T02:00:22Z",
+      "ran": true,
+      "passed": [
+        "ch05-e1",
+        "ch05-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 700,
+      "max_score": 700,
+      "tier": "claimed"
+    },
+    {
+      "github": "apeaircreative",
       "item": "w01",
       "submitted_at": "2026-09-19T18:02:56Z",
       "ran": true,
