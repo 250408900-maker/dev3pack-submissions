@@ -890,6 +890,23 @@
       "tier": "claimed"
     },
     {
+      "github": "JennyT3",
+      "item": "ch08",
+      "submitted_at": "2026-09-24T22:04:22Z",
+      "ran": true,
+      "passed": [
+        "ch08-e1",
+        "ch08-e2",
+        "ch08-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "Messibre",
       "item": "ch01",
       "submitted_at": "2026-09-15T09:07:29Z",
