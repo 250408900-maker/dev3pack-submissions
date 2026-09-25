@@ -941,6 +941,21 @@
       "tier": "claimed"
     },
     {
+      "github": "Lujain-Mahesar",
+      "item": "ch01",
+      "submitted_at": "2026-09-25T09:46:29Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
       "github": "Messibre",
       "item": "ch01",
       "submitted_at": "2026-09-15T09:07:29Z",
