@@ -959,7 +959,7 @@
     {
       "github": "JennyT3",
       "item": "ch10",
-      "submitted_at": "2026-09-25T12:11:24Z",
+      "submitted_at": "2026-09-25T18:29:42Z",
       "ran": true,
       "passed": [
         "ch10-e1",
@@ -968,7 +968,7 @@
       "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 200,
+      "score": 700,
       "max_score": 700,
       "tier": "unverifiable"
     },
