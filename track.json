@@ -3705,6 +3705,25 @@
     },
     {
       "github": "navy0110",
+      "item": "cap01",
+      "submitted_at": "2026-09-25T02:45:29Z",
+      "ran": true,
+      "passed": [
+        "cap01-e1",
+        "cap01-e2",
+        "cap01-e3",
+        "cap01-e4",
+        "cap01-e5"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 500,
+      "max_score": 500,
+      "tier": "claimed"
+    },
+    {
+      "github": "navy0110",
       "item": "ch02",
       "submitted_at": "2026-09-24T03:44:19Z",
       "ran": true,
@@ -3770,6 +3789,89 @@
       "score": 200,
       "max_score": 700,
       "tier": "claimed"
+    },
+    {
+      "github": "navy0110",
+      "item": "ch06",
+      "submitted_at": "2026-09-24T04:10:54Z",
+      "ran": true,
+      "passed": [
+        "ch06-e2",
+        "ch06-e3",
+        "ch06-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "navy0110",
+      "item": "ch07",
+      "submitted_at": "2026-09-24T04:21:01Z",
+      "ran": true,
+      "passed": [
+        "ch07-e1",
+        "ch07-e2",
+        "ch07-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "navy0110",
+      "item": "ch08",
+      "submitted_at": "2026-09-25T01:38:14Z",
+      "ran": true,
+      "passed": [
+        "ch08-e1",
+        "ch08-e2",
+        "ch08-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "navy0110",
+      "item": "ch09",
+      "submitted_at": "2026-09-25T01:48:20Z",
+      "ran": true,
+      "passed": [
+        "ch09-e1",
+        "ch09-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 200,
+      "max_score": 200,
+      "tier": "claimed"
+    },
+    {
+      "github": "navy0110",
+      "item": "ch10",
+      "submitted_at": "2026-09-25T02:37:05Z",
+      "ran": true,
+      "passed": [
+        "ch10-e1",
+        "ch10-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 700,
+      "max_score": 700,
+      "tier": "unverifiable"
     },
     {
       "github": "navy0110",
