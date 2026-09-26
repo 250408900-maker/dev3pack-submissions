@@ -3600,7 +3600,7 @@
     {
       "github": "licette32",
       "item": "ch05",
-      "submitted_at": "2026-09-22T22:18:28Z",
+      "submitted_at": "2026-09-26T03:01:45Z",
       "ran": true,
       "passed": [
         "ch05-e1",
@@ -3609,7 +3609,7 @@
       "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 200,
+      "score": 700,
       "max_score": 700,
       "tier": "claimed"
     },
