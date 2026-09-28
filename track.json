@@ -4493,6 +4493,23 @@
       "tier": "unverifiable"
     },
     {
+      "github": "n1n4xyz",
+      "item": "ch11",
+      "submitted_at": "2026-09-28T17:50:44Z",
+      "ran": true,
+      "passed": [
+        "ch11-e1",
+        "ch11-e2",
+        "ch11-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "navy0110",
       "item": "cap01",
       "submitted_at": "2026-09-25T02:45:29Z",
