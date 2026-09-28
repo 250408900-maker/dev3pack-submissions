@@ -1531,6 +1531,23 @@
       "tier": "claimed"
     },
     {
+      "github": "SaulChoque",
+      "item": "ch05",
+      "submitted_at": "2026-09-28T23:11:02Z",
+      "ran": true,
+      "passed": [
+        "ch05-e1"
+      ],
+      "failed": [
+        "ch05-e2"
+      ],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 700,
+      "tier": "claimed"
+    },
+    {
       "github": "Sodi0",
       "item": "ch01",
       "submitted_at": "2026-09-16T05:37:44Z",
