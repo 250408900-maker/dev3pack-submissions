@@ -4361,6 +4361,23 @@
       "tier": "claimed"
     },
     {
+      "github": "n1n4xyz",
+      "item": "ch04",
+      "submitted_at": "2026-09-28T16:34:53Z",
+      "ran": true,
+      "passed": [
+        "ch04-e1",
+        "ch04-e2",
+        "ch04-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "navy0110",
       "item": "cap01",
       "submitted_at": "2026-09-25T02:45:29Z",
