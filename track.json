@@ -4128,6 +4128,23 @@
       "tier": "claimed"
     },
     {
+      "github": "lovelymahor",
+      "item": "ch08",
+      "submitted_at": "2026-09-28T07:08:53Z",
+      "ran": true,
+      "passed": [
+        "ch08-e1",
+        "ch08-e2",
+        "ch08-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "med-bc",
       "item": "ch01",
       "submitted_at": "2026-09-15T23:33:31Z",
