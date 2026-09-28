@@ -4996,6 +4996,22 @@
       "tier": "claimed"
     },
     {
+      "github": "rehna-jp",
+      "item": "ch10",
+      "submitted_at": "2026-09-28T02:54:56Z",
+      "ran": true,
+      "passed": [
+        "ch10-e1",
+        "ch10-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 200,
+      "max_score": 700,
+      "tier": "unverifiable"
+    },
+    {
       "github": "sandyreyna",
       "item": "ch01",
       "submitted_at": "2026-09-17T01:18:57Z",
