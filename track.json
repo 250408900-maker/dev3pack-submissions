@@ -2231,6 +2231,23 @@
       "tier": "claimed"
     },
     {
+      "github": "bahatijacklee",
+      "item": "ch08",
+      "submitted_at": "2026-09-28T16:14:47Z",
+      "ran": true,
+      "passed": [
+        "ch08-e1",
+        "ch08-e2",
+        "ch08-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "baraa0abd",
       "item": "ch01",
       "submitted_at": "2026-09-16T21:40:14Z",
