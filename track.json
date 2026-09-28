@@ -2000,7 +2000,7 @@
     {
       "github": "apeaircreative",
       "item": "ch10",
-      "submitted_at": "2026-09-28T14:37:50Z",
+      "submitted_at": "2026-09-28T19:28:29Z",
       "ran": true,
       "passed": [
         "ch10-e1",
@@ -2009,7 +2009,7 @@
       "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 200,
+      "score": 700,
       "max_score": 700,
       "tier": "unverifiable"
     },
