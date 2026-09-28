@@ -359,6 +359,23 @@
       "tier": "unverifiable"
     },
     {
+      "github": "250408900-maker",
+      "item": "ch11",
+      "submitted_at": "2026-09-28T15:53:09Z",
+      "ran": true,
+      "passed": [
+        "ch11-e1",
+        "ch11-e2",
+        "ch11-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "Abduovv",
       "item": "ch01",
       "submitted_at": "2026-09-16T12:20:36Z",
