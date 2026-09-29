@@ -1184,6 +1184,23 @@
       "tier": "unverifiable"
     },
     {
+      "github": "JennyT3",
+      "item": "ch11",
+      "submitted_at": "2026-09-29T16:15:40Z",
+      "ran": true,
+      "passed": [
+        "ch11-e1",
+        "ch11-e2",
+        "ch11-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "Lujain-Mahesar",
       "item": "ch01",
       "submitted_at": "2026-09-25T09:46:29Z",
