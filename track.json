@@ -6080,6 +6080,23 @@
       "tier": "claimed"
     },
     {
+      "github": "thefranceway",
+      "item": "ch12",
+      "submitted_at": "2026-09-29T19:55:39Z",
+      "ran": true,
+      "passed": [
+        "ch12-e2",
+        "ch12-e1",
+        "ch12-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "valeepg",
       "item": "ch01",
       "submitted_at": "2026-09-17T15:44:51Z",
