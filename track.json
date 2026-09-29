@@ -1896,6 +1896,22 @@
       "tier": "claimed"
     },
     {
+      "github": "SofiaSol10",
+      "item": "ch10",
+      "submitted_at": "2026-09-29T23:29:40Z",
+      "ran": true,
+      "passed": [
+        "ch10-e1",
+        "ch10-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 200,
+      "max_score": 700,
+      "tier": "unverifiable"
+    },
+    {
       "github": "Welu2",
       "item": "ch01",
       "submitted_at": "2026-09-15T07:59:22Z",
