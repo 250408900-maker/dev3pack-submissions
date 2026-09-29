@@ -394,6 +394,23 @@
     },
     {
       "github": "250408900-maker",
+      "item": "ch13",
+      "submitted_at": "2026-09-29T15:07:03Z",
+      "ran": true,
+      "passed": [
+        "ch13-e4",
+        "ch13-e2",
+        "ch13-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "250408900-maker",
       "item": "ch14",
       "submitted_at": "2026-09-29T15:08:46Z",
       "ran": true,
