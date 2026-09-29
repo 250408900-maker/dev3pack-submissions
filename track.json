@@ -559,6 +559,21 @@
       "tier": "handed in"
     },
     {
+      "github": "Eriol-0406",
+      "item": "ch01",
+      "submitted_at": "2026-09-28T09:04:45Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
       "github": "Guis-gk",
       "item": "ch01",
       "submitted_at": "2026-09-16T01:42:01Z",

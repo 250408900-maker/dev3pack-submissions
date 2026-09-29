@@ -2,7 +2,7 @@
 
 # Track
 
-50 student(s) have handed something in, across 15 marked items.
+51 student(s) have handed something in, across 15 marked items.
 
 A cell shows what that item was worth. `handed in` means the work was
 submitted and is not marked: week 0 is self-paced, and the two
@@ -13,6 +13,7 @@ nothing has been submitted yet, which is not the same as a zero.
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 250408900-maker | 100/100 | 400/400 | 300/300 | 300/300 | 700/700 | 300/300 | 300/300 | 300/300 | 200/200 | 700/700 | 300/300 |  |  |  |  | 3900/3900 |
 | Abduovv | 100/100 | 400/400 | 300/300 | 300/300 | 200/700 | 300/300 | 300/300 | 300/300 | 200/200 | 600/700 |  |  |  |  |  | 3000/3600 |
+| Eriol-0406 | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | Guis-gk | 100/100 | 400/400 | 300/300 | 300/300 | 200/700 |  |  |  |  |  |  |  |  |  |  | 1300/1800 |
 | Human-Gechi | 100/100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100/100 |
 | Igullabs | 100/100 | 400/400 |  |  |  |  |  |  |  |  |  |  |  |  |  | 500/500 |
@@ -70,6 +71,7 @@ Handed in as a record of the work, never marked.
 |---|---|
 | 250408900-maker | 0/12 |
 | Abduovv | 1/12 |
+| Eriol-0406 | 0/12 |
 | Guis-gk | 0/12 |
 | Human-Gechi | 0/12 |
 | Igullabs | 0/12 |
