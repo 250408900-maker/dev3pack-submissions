@@ -1366,6 +1366,23 @@
       "tier": "claimed"
     },
     {
+      "github": "Mialy333",
+      "item": "ch10",
+      "submitted_at": "2026-09-29T11:41:15Z",
+      "ran": true,
+      "passed": [
+        "ch10-e2"
+      ],
+      "failed": [
+        "ch10-e1"
+      ],
+      "not_reached": [],
+      "scored": true,
+      "score": 600,
+      "max_score": 700,
+      "tier": "unverifiable"
+    },
+    {
       "github": "Ryjen1",
       "item": "ch01",
       "submitted_at": "2026-09-21T08:01:37Z",
