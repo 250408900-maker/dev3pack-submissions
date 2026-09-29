@@ -4629,6 +4629,25 @@
     },
     {
       "github": "n1n4xyz",
+      "item": "cap01",
+      "submitted_at": "2026-09-29T18:43:08Z",
+      "ran": true,
+      "passed": [
+        "cap01-e1",
+        "cap01-e2",
+        "cap01-e3",
+        "cap01-e4",
+        "cap01-e5"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 500,
+      "max_score": 500,
+      "tier": "claimed"
+    },
+    {
+      "github": "n1n4xyz",
       "item": "ch01",
       "submitted_at": "2026-09-28T16:12:18Z",
       "ran": true,
