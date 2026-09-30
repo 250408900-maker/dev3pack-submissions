@@ -5499,7 +5499,7 @@
     {
       "github": "pamvianeta",
       "item": "ch05",
-      "submitted_at": "2026-09-19T05:24:43Z",
+      "submitted_at": "2026-09-30T07:02:44Z",
       "ran": true,
       "passed": [
         "ch05-e1",
@@ -5508,7 +5508,7 @@
       "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 200,
+      "score": 500,
       "max_score": 700,
       "tier": "claimed"
     },
