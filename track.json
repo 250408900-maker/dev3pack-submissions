@@ -1250,6 +1250,21 @@
       "tier": "unverifiable"
     },
     {
+      "github": "MarisolArgibay",
+      "item": "ch01",
+      "submitted_at": "2026-09-30T03:04:49Z",
+      "ran": true,
+      "passed": [
+        "ch01-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "unverifiable"
+    },
+    {
       "github": "Messibre",
       "item": "ch01",
       "submitted_at": "2026-09-15T09:07:29Z",
