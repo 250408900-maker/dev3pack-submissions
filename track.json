@@ -2760,6 +2760,23 @@
       "tier": "claimed"
     },
     {
+      "github": "debbyelsie",
+      "item": "ch06",
+      "submitted_at": "2026-09-30T20:11:18Z",
+      "ran": true,
+      "passed": [
+        "ch06-e2",
+        "ch06-e3",
+        "ch06-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "desirrebarbosa",
       "item": "ch01",
       "submitted_at": "2026-09-15T17:45:09Z",
