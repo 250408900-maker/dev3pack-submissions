@@ -5632,6 +5632,23 @@
     },
     {
       "github": "odingaval",
+      "item": "ch09",
+      "submitted_at": "2026-09-30T16:37:53Z",
+      "ran": true,
+      "passed": [
+        "ch09-e1"
+      ],
+      "failed": [
+        "ch09-e2"
+      ],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 200,
+      "tier": "claimed"
+    },
+    {
+      "github": "odingaval",
       "item": "w01",
       "submitted_at": "2026-09-21T14:19:39Z",
       "ran": true,
