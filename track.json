@@ -4330,7 +4330,7 @@
     {
       "github": "kb-dev28",
       "item": "ch10",
-      "submitted_at": "2026-09-30T14:45:49Z",
+      "submitted_at": "2026-09-30T15:44:29Z",
       "ran": true,
       "passed": [
         "ch10-e1",
@@ -4339,7 +4339,7 @@
       "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 200,
+      "score": 700,
       "max_score": 700,
       "tier": "unverifiable"
     },
