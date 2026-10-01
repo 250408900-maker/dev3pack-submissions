@@ -1056,6 +1056,21 @@
       "tier": "claimed"
     },
     {
+      "github": "Insia-8",
+      "item": "ch14",
+      "submitted_at": "2026-10-01T21:20:52Z",
+      "ran": true,
+      "passed": [
+        "ch14-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "claimed"
+    },
+    {
       "github": "Its-prity",
       "item": "ch01",
       "submitted_at": "2026-09-15T04:25:43Z",
