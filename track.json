@@ -4713,6 +4713,23 @@
       "tier": "unverifiable"
     },
     {
+      "github": "kb-dev28",
+      "item": "ch11",
+      "submitted_at": "2026-10-01T17:48:39Z",
+      "ran": true,
+      "passed": [
+        "ch11-e1",
+        "ch11-e2",
+        "ch11-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "leticiaalmeida-prod",
       "item": "ch01",
       "submitted_at": "2026-09-13T22:17:37Z",
