@@ -626,6 +626,23 @@
     },
     {
       "github": "Abduovv",
+      "item": "ch13",
+      "submitted_at": "2026-10-01T10:51:05Z",
+      "ran": true,
+      "passed": [
+        "ch13-e4",
+        "ch13-e2",
+        "ch13-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "Abduovv",
       "item": "w01",
       "submitted_at": "2026-09-16T10:24:28Z",
       "ran": true,
