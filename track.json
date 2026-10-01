@@ -2579,7 +2579,7 @@
     {
       "github": "bahatijacklee",
       "item": "ch05",
-      "submitted_at": "2026-09-21T15:19:38Z",
+      "submitted_at": "2026-10-01T09:43:28Z",
       "ran": true,
       "passed": [
         "ch05-e1",
@@ -2588,7 +2588,7 @@
       "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 200,
+      "score": 500,
       "max_score": 700,
       "tier": "claimed"
     },
