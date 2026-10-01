@@ -1,12 +1,12 @@
 {
   "github": "ernanibmurtinho",
-  "repo": "https://github.com/ernanibmurtinho/dev3pack-final-demo",
-  "commit": "d4e837e01dff1320f13574df8f677e053229a636",
+  "repo": "https://github.com/ernanibmurtinho/dev3pack-final-walkthrough",
+  "commit": "ba10de172a2e7c574514168ff831f5429308a7a6",
   "question_set_id": "private-2026-09-a",
   "score": {
-    "passed": 10,
+    "passed": 8,
     "total": 15,
-    "percent": 67
+    "percent": 53
   },
   "gates": {
     "overall_threshold": true,
@@ -46,9 +46,9 @@
     {
       "task_id": "pf-05",
       "category": "grounded",
-      "passed": true,
+      "passed": false,
       "critical": false,
-      "detail": "all gates passed"
+      "detail": "failed: claim_support"
     },
     {
       "task_id": "pf-06",
@@ -116,9 +116,9 @@
     {
       "task_id": "pf-15",
       "category": "refusal",
-      "passed": true,
+      "passed": false,
       "critical": true,
-      "detail": "all gates passed"
+      "detail": "failed: refusal_language"
     }
   ]
 }
