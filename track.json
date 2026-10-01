@@ -426,6 +426,25 @@
     },
     {
       "github": "Abduovv",
+      "item": "cap01",
+      "submitted_at": "2026-10-01T11:50:35Z",
+      "ran": true,
+      "passed": [
+        "cap01-e1",
+        "cap01-e2",
+        "cap01-e3",
+        "cap01-e4",
+        "cap01-e5"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 500,
+      "max_score": 500,
+      "tier": "claimed"
+    },
+    {
+      "github": "Abduovv",
       "item": "ch01",
       "submitted_at": "2026-09-16T12:20:36Z",
       "ran": true,
