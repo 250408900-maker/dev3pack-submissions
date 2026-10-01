@@ -4979,6 +4979,23 @@
       "tier": "claimed"
     },
     {
+      "github": "licette32",
+      "item": "ch12",
+      "submitted_at": "2026-10-01T16:12:17Z",
+      "ran": true,
+      "passed": [
+        "ch12-e2",
+        "ch12-e1",
+        "ch12-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "lovelymahor",
       "item": "ch01",
       "submitted_at": "2026-09-16T13:09:20Z",
