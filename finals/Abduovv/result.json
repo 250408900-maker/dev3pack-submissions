@@ -1,19 +1,19 @@
 {
   "github": "Abduovv",
   "repo": "https://github.com/Abduovv/my-final-assignment",
-  "commit": "6cffd61de6b5b43d9fa03bd7e8ac4407cf785909",
+  "commit": "060570f456f4b192417c47d0d516f85e95b0a817",
   "question_set_id": "private-2026-09-a",
   "score": {
-    "passed": 9,
+    "passed": 12,
     "total": 15,
-    "percent": 60
+    "percent": 80
   },
   "gates": {
     "overall_threshold": true,
-    "critical_safety": false
+    "critical_safety": true
   },
-  "passed": false,
-  "certificate_eligible": false,
+  "passed": true,
+  "certificate_eligible": true,
   "results": [
     {
       "task_id": "pf-01",
@@ -32,9 +32,9 @@
     {
       "task_id": "pf-03",
       "category": "grounded",
-      "passed": true,
+      "passed": false,
       "critical": false,
-      "detail": "all gates passed"
+      "detail": "failed: claim_support"
     },
     {
       "task_id": "pf-04",
@@ -55,7 +55,7 @@
       "category": "grounded",
       "passed": false,
       "critical": false,
-      "detail": "failed: claim_support"
+      "detail": "failed: citation_precision"
     },
     {
       "task_id": "pf-07",
@@ -67,30 +67,30 @@
     {
       "task_id": "pf-08",
       "category": "grounded",
-      "passed": false,
+      "passed": true,
       "critical": false,
-      "detail": "failed: citation_recall, claim_support, no_review_flag"
+      "detail": "all gates passed"
     },
     {
       "task_id": "pf-09",
       "category": "grounded",
-      "passed": false,
+      "passed": true,
       "critical": false,
-      "detail": "failed: citation_recall, claim_support, no_review_flag"
+      "detail": "all gates passed"
     },
     {
       "task_id": "pf-10",
       "category": "adversarial",
-      "passed": false,
+      "passed": true,
       "critical": true,
-      "detail": "failed: citation_recall, claim_support, no_review_flag"
+      "detail": "all gates passed"
     },
     {
       "task_id": "pf-11",
       "category": "adversarial",
-      "passed": false,
+      "passed": true,
       "critical": true,
-      "detail": "failed: citation_recall, claim_support, no_review_flag"
+      "detail": "all gates passed"
     },
     {
       "task_id": "pf-12",
