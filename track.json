@@ -1388,6 +1388,25 @@
     },
     {
       "github": "JuliaGastellu",
+      "item": "cap01",
+      "submitted_at": "2026-10-02T12:43:35Z",
+      "ran": true,
+      "passed": [
+        "cap01-e1",
+        "cap01-e2",
+        "cap01-e3",
+        "cap01-e4",
+        "cap01-e5"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 500,
+      "max_score": 500,
+      "tier": "claimed"
+    },
+    {
+      "github": "JuliaGastellu",
       "item": "ch01",
       "submitted_at": "2026-10-02T12:28:46Z",
       "ran": true,
@@ -1539,7 +1558,7 @@
     {
       "github": "JuliaGastellu",
       "item": "ch10",
-      "submitted_at": "2026-10-02T12:37:19Z",
+      "submitted_at": "2026-10-02T12:43:11Z",
       "ran": true,
       "passed": [
         "ch10-e1",
@@ -1551,6 +1570,72 @@
       "score": 700,
       "max_score": 700,
       "tier": "unverifiable"
+    },
+    {
+      "github": "JuliaGastellu",
+      "item": "ch11",
+      "submitted_at": "2026-10-02T12:43:16Z",
+      "ran": true,
+      "passed": [
+        "ch11-e1",
+        "ch11-e2",
+        "ch11-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "JuliaGastellu",
+      "item": "ch12",
+      "submitted_at": "2026-10-02T12:43:21Z",
+      "ran": true,
+      "passed": [
+        "ch12-e2",
+        "ch12-e1",
+        "ch12-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "JuliaGastellu",
+      "item": "ch13",
+      "submitted_at": "2026-10-02T12:43:26Z",
+      "ran": true,
+      "passed": [
+        "ch13-e4",
+        "ch13-e2",
+        "ch13-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "JuliaGastellu",
+      "item": "ch14",
+      "submitted_at": "2026-10-02T12:43:30Z",
+      "ran": true,
+      "passed": [
+        "ch14-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "claimed"
     },
     {
       "github": "Lujain-Mahesar",
