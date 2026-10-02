@@ -6951,6 +6951,22 @@
       "tier": "claimed"
     },
     {
+      "github": "semegn19",
+      "item": "ch10",
+      "submitted_at": "2026-10-02T01:50:38Z",
+      "ran": true,
+      "passed": [
+        "ch10-e1",
+        "ch10-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 700,
+      "max_score": 700,
+      "tier": "unverifiable"
+    },
+    {
       "github": "thefranceway",
       "item": "ch01",
       "submitted_at": "2026-09-15T14:42:19Z",
