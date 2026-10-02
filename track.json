@@ -6373,7 +6373,7 @@
     {
       "github": "nizalia0206",
       "item": "ch05",
-      "submitted_at": "2026-10-02T16:26:52Z",
+      "submitted_at": "2026-10-02T16:54:16Z",
       "ran": true,
       "passed": [
         "ch05-e1",
@@ -6382,7 +6382,7 @@
       "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 400,
+      "score": 700,
       "max_score": 700,
       "tier": "claimed"
     },
