@@ -3830,7 +3830,7 @@
     {
       "github": "desirrebarbosa",
       "item": "ch10",
-      "submitted_at": "2026-10-03T16:05:08Z",
+      "submitted_at": "2026-10-03T16:06:48Z",
       "ran": true,
       "passed": [
         "ch10-e1",
@@ -3839,7 +3839,7 @@
       "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 200,
+      "score": 700,
       "max_score": 700,
       "tier": "unverifiable"
     },
