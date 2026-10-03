@@ -2056,6 +2056,23 @@
     },
     {
       "github": "Mialy333",
+      "item": "ch08",
+      "submitted_at": "2026-10-03T14:04:34Z",
+      "ran": true,
+      "passed": [
+        "ch08-e1",
+        "ch08-e2",
+        "ch08-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "Mialy333",
       "item": "ch09",
       "submitted_at": "2026-10-03T13:33:57Z",
       "ran": true,
