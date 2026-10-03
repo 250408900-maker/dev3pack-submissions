@@ -7487,6 +7487,22 @@
       "tier": "claimed"
     },
     {
+      "github": "pamvianeta",
+      "item": "ch10",
+      "submitted_at": "2026-10-03T23:04:05Z",
+      "ran": true,
+      "passed": [
+        "ch10-e1",
+        "ch10-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 700,
+      "max_score": 700,
+      "tier": "unverifiable"
+    },
+    {
       "github": "pixiepixeled",
       "item": "ch01",
       "submitted_at": "2026-09-16T12:32:50Z",
