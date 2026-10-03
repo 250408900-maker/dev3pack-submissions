@@ -2005,6 +2005,22 @@
     },
     {
       "github": "Mialy333",
+      "item": "ch09",
+      "submitted_at": "2026-10-03T13:33:57Z",
+      "ran": true,
+      "passed": [
+        "ch09-e1",
+        "ch09-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 200,
+      "max_score": 200,
+      "tier": "claimed"
+    },
+    {
+      "github": "Mialy333",
       "item": "ch10",
       "submitted_at": "2026-09-29T11:41:15Z",
       "ran": true,
