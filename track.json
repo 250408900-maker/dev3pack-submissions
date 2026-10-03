@@ -2320,6 +2320,22 @@
       "tier": "claimed"
     },
     {
+      "github": "MihaelaCatan04",
+      "item": "ch10",
+      "submitted_at": "2026-10-03T18:25:45Z",
+      "ran": true,
+      "passed": [
+        "ch10-e1",
+        "ch10-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 600,
+      "max_score": 700,
+      "tier": "unverifiable"
+    },
+    {
       "github": "MominaSafdarr",
       "item": "ch01",
       "submitted_at": "2026-10-02T14:04:10Z",
