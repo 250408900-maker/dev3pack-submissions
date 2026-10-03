@@ -2090,17 +2090,16 @@
     {
       "github": "Mialy333",
       "item": "ch10",
-      "submitted_at": "2026-09-29T11:41:15Z",
+      "submitted_at": "2026-10-03T14:46:11Z",
       "ran": true,
       "passed": [
+        "ch10-e1",
         "ch10-e2"
       ],
-      "failed": [
-        "ch10-e1"
-      ],
+      "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 600,
+      "score": 700,
       "max_score": 700,
       "tier": "unverifiable"
     },
