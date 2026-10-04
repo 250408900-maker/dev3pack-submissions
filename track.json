@@ -1755,6 +1755,23 @@
       "tier": "claimed"
     },
     {
+      "github": "MarisolArgibay",
+      "item": "ch06",
+      "submitted_at": "2026-10-04T08:50:16Z",
+      "ran": true,
+      "passed": [
+        "ch06-e2",
+        "ch06-e3",
+        "ch06-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "Messibre",
       "item": "cap01",
       "submitted_at": "2026-09-30T07:44:27Z",
