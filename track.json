@@ -4183,6 +4183,24 @@
       "tier": "claimed"
     },
     {
+      "github": "desirrebarbosa",
+      "item": "ch12",
+      "submitted_at": "2026-10-04T07:11:52Z",
+      "ran": true,
+      "passed": [
+        "ch12-e1",
+        "ch12-e3"
+      ],
+      "failed": [
+        "ch12-e2"
+      ],
+      "not_reached": [],
+      "scored": true,
+      "score": 200,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "devolps-survive",
       "item": "ch01",
       "submitted_at": "2026-09-15T21:12:23Z",
