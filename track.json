@@ -8960,6 +8960,15 @@
         "submitted_at": "2026-10-04T08:11:20Z"
       },
       "final": null
+    },
+    {
+      "github": "semegn19",
+      "gecko": null,
+      "final": {
+        "percent": 80,
+        "passed": false,
+        "certificate_eligible": false
+      }
     }
   ]
 }
