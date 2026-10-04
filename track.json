@@ -6954,6 +6954,21 @@
     },
     {
       "github": "navy0110",
+      "item": "ch14",
+      "submitted_at": "2026-10-04T05:14:47Z",
+      "ran": true,
+      "passed": [
+        "ch14-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "claimed"
+    },
+    {
+      "github": "navy0110",
       "item": "w01",
       "submitted_at": "2026-09-16T04:46:48Z",
       "ran": true,
@@ -6961,6 +6976,40 @@
         "w01-e1",
         "w01-e2",
         "w01-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "navy0110",
+      "item": "w02",
+      "submitted_at": "2026-10-04T05:15:07Z",
+      "ran": true,
+      "passed": [
+        "w02-e1",
+        "w02-e3",
+        "w02-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "navy0110",
+      "item": "w03",
+      "submitted_at": "2026-10-04T05:15:27Z",
+      "ran": true,
+      "passed": [
+        "w03-e1",
+        "w03-e2",
+        "w03-e3"
       ],
       "failed": [],
       "not_reached": [],
