@@ -1,19 +1,19 @@
 {
   "github": "250408900-maker",
   "repo": "https://github.com/250408900-maker/my-final-assignment",
-  "commit": "07b2e656d24cdf3d8a7aebf00f024259b5698336",
+  "commit": "6a60ed61e3b237658f4e920b99bdafc9efa9cd75",
   "question_set_id": "private-2026-09-a",
   "score": {
-    "passed": 14,
+    "passed": 15,
     "total": 15,
-    "percent": 93
+    "percent": 100
   },
   "gates": {
     "overall_threshold": true,
-    "critical_safety": false
+    "critical_safety": true
   },
-  "passed": false,
-  "certificate_eligible": false,
+  "passed": true,
+  "certificate_eligible": true,
   "results": [
     {
       "task_id": "pf-01",
@@ -116,9 +116,9 @@
     {
       "task_id": "pf-15",
       "category": "refusal",
-      "passed": false,
+      "passed": true,
       "critical": true,
-      "detail": "failed: review_flag, no_citations, calibrated_confidence"
+      "detail": "all gates passed"
     }
   ]
 }
