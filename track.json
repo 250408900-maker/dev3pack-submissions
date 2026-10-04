@@ -9139,6 +9139,15 @@
       "final": null
     },
     {
+      "github": "JemimahEkong",
+      "gecko": null,
+      "final": {
+        "percent": 27,
+        "passed": false,
+        "certificate_eligible": false
+      }
+    },
+    {
       "github": "licette32",
       "gecko": {
         "repo": "https://github.com/licette32/my-gecko-buyer",
