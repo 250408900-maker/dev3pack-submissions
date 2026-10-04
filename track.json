@@ -9057,6 +9057,15 @@
       }
     },
     {
+      "github": "baraa0abd",
+      "gecko": null,
+      "final": {
+        "percent": 27,
+        "passed": false,
+        "certificate_eligible": false
+      }
+    },
+    {
       "github": "desirrebarbosa",
       "gecko": {
         "repo": "https://github.com/desirrebarbosa/my-gecko-buyer",

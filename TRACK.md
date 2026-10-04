@@ -139,6 +139,7 @@ own `my-gecko-buyer`, at the commit you handed in) and the final submission
 |---|---|---|---|
 | 250408900-maker |  | 80% | not yet |
 | Abduovv |  | 80% | eligible |
+| baraa0abd |  | 27% | not yet |
 | desirrebarbosa | [552449f](https://github.com/desirrebarbosa/my-gecko-buyer/tree/552449f8ef22267b07928857a17a37e5b96532aa) | 93% | eligible |
 | ernanibmurtinho |  | 53% | not yet |
 | helasnoussi |  | 87% | eligible |
