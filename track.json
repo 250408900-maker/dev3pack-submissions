@@ -4185,18 +4185,17 @@
     {
       "github": "desirrebarbosa",
       "item": "ch12",
-      "submitted_at": "2026-10-04T07:11:52Z",
+      "submitted_at": "2026-10-04T07:17:08Z",
       "ran": true,
       "passed": [
+        "ch12-e2",
         "ch12-e1",
         "ch12-e3"
       ],
-      "failed": [
-        "ch12-e2"
-      ],
+      "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 200,
+      "score": 300,
       "max_score": 300,
       "tier": "claimed"
     },
