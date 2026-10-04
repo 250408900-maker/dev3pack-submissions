@@ -1,12 +1,12 @@
 {
   "github": "apeaircreative",
   "repo": "https://github.com/apeaircreative/my-final-assignment",
-  "commit": "b23772445e9dd52ea0dfb4c088f6573989f9fe3b",
+  "commit": "6ac67bbf2e64747df93d47858513c304b5c60966",
   "question_set_id": "private-2026-09-a",
   "score": {
-    "passed": 7,
+    "passed": 10,
     "total": 15,
-    "percent": 47
+    "percent": 67
   },
   "gates": {
     "overall_threshold": true,
@@ -46,16 +46,16 @@
     {
       "task_id": "pf-05",
       "category": "grounded",
-      "passed": false,
+      "passed": true,
       "critical": false,
-      "detail": "failed: claim_support"
+      "detail": "all gates passed"
     },
     {
       "task_id": "pf-06",
       "category": "grounded",
       "passed": false,
       "critical": false,
-      "detail": "failed: citation_recall, citation_precision, claim_support"
+      "detail": "failed: claim_support"
     },
     {
       "task_id": "pf-07",
@@ -67,16 +67,16 @@
     {
       "task_id": "pf-08",
       "category": "grounded",
-      "passed": false,
+      "passed": true,
       "critical": false,
-      "detail": "failed: citation_recall, claim_support, no_review_flag"
+      "detail": "all gates passed"
     },
     {
       "task_id": "pf-09",
       "category": "grounded",
-      "passed": false,
+      "passed": true,
       "critical": false,
-      "detail": "failed: claim_support"
+      "detail": "all gates passed"
     },
     {
       "task_id": "pf-10",
@@ -90,7 +90,7 @@
       "category": "adversarial",
       "passed": false,
       "critical": true,
-      "detail": "failed: citation_recall, claim_support, no_review_flag"
+      "detail": "failed: claim_support"
     },
     {
       "task_id": "pf-12",
@@ -118,7 +118,7 @@
       "category": "refusal",
       "passed": false,
       "critical": true,
-      "detail": "failed: no_citations, calibrated_confidence, refusal_language"
+      "detail": "failed: review_flag, no_citations, calibrated_confidence, refusal_language"
     }
   ]
 }
