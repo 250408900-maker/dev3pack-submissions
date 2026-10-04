@@ -8076,7 +8076,7 @@
     {
       "github": "semegn19",
       "item": "ch05",
-      "submitted_at": "2026-10-01T14:14:34Z",
+      "submitted_at": "2026-10-04T02:21:15Z",
       "ran": true,
       "passed": [
         "ch05-e1",
@@ -8085,7 +8085,7 @@
       "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 600,
+      "score": 700,
       "max_score": 700,
       "tier": "claimed"
     },
