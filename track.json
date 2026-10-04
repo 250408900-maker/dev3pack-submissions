@@ -7019,6 +7019,41 @@
       "tier": "handed in"
     },
     {
+      "github": "navy0110",
+      "item": "w04",
+      "submitted_at": "2026-10-04T05:28:05Z",
+      "ran": true,
+      "passed": [
+        "w04-e1",
+        "w04-e2",
+        "w04-e3",
+        "w04-e4"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
+      "github": "navy0110",
+      "item": "w05",
+      "submitted_at": "2026-10-04T05:28:11Z",
+      "ran": true,
+      "passed": [
+        "w05-e1",
+        "w05-e2",
+        "w05-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": false,
+      "score": null,
+      "max_score": null,
+      "tier": "handed in"
+    },
+    {
       "github": "nizalia0206",
       "item": "cap01",
       "submitted_at": "2026-10-02T09:57:37Z",
