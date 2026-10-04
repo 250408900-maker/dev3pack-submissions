@@ -9146,6 +9146,15 @@
       "final": null
     },
     {
+      "github": "paolacrispin",
+      "gecko": null,
+      "final": {
+        "percent": 80,
+        "passed": true,
+        "certificate_eligible": true
+      }
+    },
+    {
       "github": "semegn19",
       "gecko": null,
       "final": {
