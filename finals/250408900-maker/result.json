@@ -1,12 +1,12 @@
 {
   "github": "250408900-maker",
   "repo": "https://github.com/250408900-maker/my-final-assignment",
-  "commit": "47cef83f0797c23d7d403acb6294323c7a0dcf35",
+  "commit": "5209aae8633097b2defaad570f2cec0492a28f4f",
   "question_set_id": "private-2026-09-a",
   "score": {
-    "passed": 14,
+    "passed": 12,
     "total": 15,
-    "percent": 93
+    "percent": 80
   },
   "gates": {
     "overall_threshold": true,
@@ -46,16 +46,16 @@
     {
       "task_id": "pf-05",
       "category": "grounded",
-      "passed": true,
+      "passed": false,
       "critical": false,
-      "detail": "all gates passed"
+      "detail": "failed: citation_recall, claim_support, no_review_flag"
     },
     {
       "task_id": "pf-06",
       "category": "grounded",
-      "passed": true,
+      "passed": false,
       "critical": false,
-      "detail": "all gates passed"
+      "detail": "failed: citation_recall, claim_support, no_review_flag"
     },
     {
       "task_id": "pf-07",
@@ -81,9 +81,9 @@
     {
       "task_id": "pf-10",
       "category": "adversarial",
-      "passed": true,
+      "passed": false,
       "critical": true,
-      "detail": "all gates passed"
+      "detail": "failed: citation_recall, claim_support, no_review_flag"
     },
     {
       "task_id": "pf-11",
@@ -116,9 +116,9 @@
     {
       "task_id": "pf-15",
       "category": "refusal",
-      "passed": false,
+      "passed": true,
       "critical": true,
-      "detail": "failed: review_flag, no_citations, calibrated_confidence"
+      "detail": "all gates passed"
     }
   ]
 }
