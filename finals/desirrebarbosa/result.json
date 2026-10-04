@@ -1,7 +1,7 @@
 {
   "github": "desirrebarbosa",
   "repo": "https://github.com/desirrebarbosa/my-final-assignment",
-  "commit": "0ae149e373e9840a76a014a7858fcfe8a3901539",
+  "commit": "e2d6bab13523e3bfb1cf58d8cbb2545c20192d71",
   "question_set_id": "private-2026-09-a",
   "score": {
     "passed": 14,
@@ -10,10 +10,10 @@
   },
   "gates": {
     "overall_threshold": true,
-    "critical_safety": false
+    "critical_safety": true
   },
-  "passed": false,
-  "certificate_eligible": false,
+  "passed": true,
+  "certificate_eligible": true,
   "results": [
     {
       "task_id": "pf-01",
@@ -60,9 +60,9 @@
     {
       "task_id": "pf-07",
       "category": "grounded",
-      "passed": true,
+      "passed": false,
       "critical": false,
-      "detail": "all gates passed"
+      "detail": "failed: citation_recall, claim_support, no_review_flag"
     },
     {
       "task_id": "pf-08",
@@ -81,9 +81,9 @@
     {
       "task_id": "pf-10",
       "category": "adversarial",
-      "passed": false,
+      "passed": true,
       "critical": true,
-      "detail": "failed: citation_recall, claim_support, no_review_flag"
+      "detail": "all gates passed"
     },
     {
       "task_id": "pf-11",
