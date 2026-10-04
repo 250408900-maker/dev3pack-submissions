@@ -137,7 +137,7 @@ own `my-gecko-buyer`, at the commit you handed in) and the final submission
 
 | Student | Gecko capstone | Final | Certificate |
 |---|---|---|---|
-| 250408900-maker |  | 87% | not yet |
+| 250408900-maker |  | 93% | not yet |
 | Abduovv |  | 80% | eligible |
 | desirrebarbosa |  | 93% | not yet |
 | ernanibmurtinho |  | 53% | not yet |
