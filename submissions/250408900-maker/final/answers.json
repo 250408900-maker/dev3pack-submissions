@@ -36,20 +36,16 @@
       "needs_human_review": false
     },
     "pf-05": {
-      "answer": "There is a spectrum: a deterministic chain (no decisions), a tool-using loop (the model picks tools), a reflection loop (the model critiques its own draft), and multi-agent systems (models delegate to models). Each step up adds latency, cost, and failure modes. The professional habit is to start at the bottom of the spectrum and move up only when a measured failure justifies it. A workflow that can be a fixed pipeline should be a fixed pipeline. A loop that cannot refuse will fabricate. When retrieval returns nothing relevant, the correct behavior is to say so \u2014 before spending a model call \u2014 and flag the answer for human review. Design the refusal path first; it is the path every other safeguard falls back to.",
-      "citations": [
-        "agent-loops"
-      ],
-      "confidence": 0.85,
-      "needs_human_review": false
+      "answer": "I do not know based on the provided corpus.",
+      "citations": [],
+      "confidence": 0.0,
+      "needs_human_review": true
     },
     "pf-06": {
-      "answer": "A trace is the ordered record of what the system actually did: what was retrieved, which tools were called with which arguments, what the model returned. When a case fails, the trace answers the diagnostic question \u2014 was it retrieval, tool selection, instruction-following, or formatting? \u2014 in minutes. Classify each failure into one of those buckets, fix the biggest bucket first, and add a regression case so the same failure cannot return unnoticed. Baseline, change one thing, rerun, compare. Never change two things between measurements, and never report an improvement without also reporting what got worse. An honest evaluation report includes the regression it caused.",
-      "citations": [
-        "evaluation-basics"
-      ],
-      "confidence": 0.85,
-      "needs_human_review": false
+      "answer": "I do not know based on the provided corpus.",
+      "citations": [],
+      "confidence": 0.0,
+      "needs_human_review": true
     },
     "pf-07": {
       "answer": "Prefer code-based checks whenever the property is mechanical: did it cite the expected source, did it parse, did it stay under the tool budget. They are fast, free, and deterministic. LLM-as-judge \u2014 using a model to grade another model's output \u2014 earns its place for genuinely fuzzy properties like tone or coherence, but it inherits the judge's own biases and must itself be spot-checked against human labels. A common failure is an evaluator that passes everything; inspect your evaluator's false positives before trusting its pass rate.",
@@ -76,12 +72,10 @@
       "needs_human_review": false
     },
     "pf-10": {
-      "answer": "A trace is the ordered record of what the system actually did: what was retrieved, which tools were called with which arguments, what the model returned. When a case fails, the trace answers the diagnostic question \u2014 was it retrieval, tool selection, instruction-following, or formatting? \u2014 in minutes. Classify each failure into one of those buckets, fix the biggest bucket first, and add a regression case so the same failure cannot return unnoticed. Baseline, change one thing, rerun, compare. Never change two things between measurements, and never report an improvement without also reporting what got worse. An honest evaluation report includes the regression it caused.",
-      "citations": [
-        "evaluation-basics"
-      ],
-      "confidence": 0.85,
-      "needs_human_review": false
+      "answer": "I do not know based on the provided corpus.",
+      "citations": [],
+      "confidence": 0.0,
+      "needs_human_review": true
     },
     "pf-11": {
       "answer": "Any channel that feeds text into the prompt is an injection surface. For a RAG assistant that means the corpus itself: a document edited to include instructions will have those instructions placed, verbatim, into the model's context at answer time. For an API-using agent it means specs and docs: a malicious OpenAPI description can try to redirect calls or exfiltrate credentials. For a coding assistant it means the repository: comments, commit messages, and README files are all model-visible input.",
@@ -110,12 +104,10 @@
       "needs_human_review": true
     },
     "pf-15": {
-      "answer": "There is a spectrum: a deterministic chain (no decisions), a tool-using loop (the model picks tools), a reflection loop (the model critiques its own draft), and multi-agent systems (models delegate to models). Each step up adds latency, cost, and failure modes. The professional habit is to start at the bottom of the spectrum and move up only when a measured failure justifies it. A workflow that can be a fixed pipeline should be a fixed pipeline. A loop that cannot refuse will fabricate. When retrieval returns nothing relevant, the correct behavior is to say so \u2014 before spending a model call \u2014 and flag the answer for human review. Design the refusal path first; it is the path every other safeguard falls back to.",
-      "citations": [
-        "agent-loops"
-      ],
-      "confidence": 0.85,
-      "needs_human_review": false
+      "answer": "I do not know based on the provided corpus.",
+      "citations": [],
+      "confidence": 0.0,
+      "needs_human_review": true
     }
   }
 }
