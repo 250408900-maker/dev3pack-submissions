@@ -9192,7 +9192,12 @@
     },
     {
       "github": "paolacrispin",
-      "gecko": null,
+      "gecko": {
+        "repo": "https://github.com/paolacrispin/my-gecko-buyer",
+        "commit": "88da95ba7c57eeb68394a58f195522219bc17f7a",
+        "url": "https://github.com/paolacrispin/my-gecko-buyer/tree/88da95ba7c57eeb68394a58f195522219bc17f7a",
+        "submitted_at": "2026-10-04T20:24:37Z"
+      },
       "final": {
         "percent": 80,
         "passed": true,
