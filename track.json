@@ -1772,6 +1772,23 @@
       "tier": "claimed"
     },
     {
+      "github": "MarisolArgibay",
+      "item": "ch07",
+      "submitted_at": "2026-10-04T09:00:07Z",
+      "ran": true,
+      "passed": [
+        "ch07-e1",
+        "ch07-e2",
+        "ch07-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "Messibre",
       "item": "cap01",
       "submitted_at": "2026-09-30T07:44:27Z",
@@ -8802,6 +8819,15 @@
   ],
   "problems": [],
   "finish_line": [
+    {
+      "github": "250408900-maker",
+      "gecko": null,
+      "final": {
+        "percent": 87,
+        "passed": false,
+        "certificate_eligible": false
+      }
+    },
     {
       "github": "Abduovv",
       "gecko": null,
