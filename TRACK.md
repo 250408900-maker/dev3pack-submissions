@@ -137,7 +137,7 @@ own `my-gecko-buyer`, at the commit you handed in) and the final submission
 
 | Student | Gecko capstone | Final | Certificate |
 |---|---|---|---|
-| 250408900-maker |  | 100% | eligible |
+| 250408900-maker | [813dce0](https://github.com/250408900-maker/my-gecko-buyer/tree/813dce0800e4b18c2c20b431996d1326b961833d) | 100% | eligible |
 | Abduovv |  | 80% | eligible |
 | baraa0abd |  | 27% | not yet |
 | desirrebarbosa | [552449f](https://github.com/desirrebarbosa/my-gecko-buyer/tree/552449f8ef22267b07928857a17a37e5b96532aa) | 93% | eligible |
