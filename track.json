@@ -726,6 +726,23 @@
       "tier": "claimed"
     },
     {
+      "github": "Eriol-0406",
+      "item": "ch03",
+      "submitted_at": "2026-10-05T03:31:50Z",
+      "ran": true,
+      "passed": [
+        "ch03-e1",
+        "ch03-e2",
+        "ch03-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
       "github": "Guis-gk",
       "item": "ch01",
       "submitted_at": "2026-09-16T01:42:01Z",
