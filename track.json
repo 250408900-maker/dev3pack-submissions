@@ -3735,6 +3735,21 @@
       "tier": "claimed"
     },
     {
+      "github": "arr4-y",
+      "item": "ch14",
+      "submitted_at": "2026-10-05T01:32:12Z",
+      "ran": true,
+      "passed": [
+        "ch14-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "claimed"
+    },
+    {
       "github": "bahatijacklee",
       "item": "ch01",
       "submitted_at": "2026-09-17T18:07:31Z",
