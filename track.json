@@ -9361,7 +9361,12 @@
     },
     {
       "github": "semegn19",
-      "gecko": null,
+      "gecko": {
+        "repo": "https://github.com/semegn19/my-gecko-buyer",
+        "commit": "05ae15f9078be3d1529c1e80f5999d3abcc5f7a5",
+        "url": "https://github.com/semegn19/my-gecko-buyer/tree/05ae15f9078be3d1529c1e80f5999d3abcc5f7a5",
+        "submitted_at": "2026-10-05T01:05:30Z"
+      },
       "final": {
         "percent": 100,
         "passed": true,
