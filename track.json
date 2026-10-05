@@ -3434,6 +3434,25 @@
     },
     {
       "github": "arr4-y",
+      "item": "cap01",
+      "submitted_at": "2026-10-04T23:39:01Z",
+      "ran": true,
+      "passed": [
+        "cap01-e1",
+        "cap01-e2",
+        "cap01-e3",
+        "cap01-e4",
+        "cap01-e5"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 500,
+      "max_score": 500,
+      "tier": "claimed"
+    },
+    {
+      "github": "arr4-y",
       "item": "ch01",
       "submitted_at": "2026-09-16T03:13:00Z",
       "ran": true,
